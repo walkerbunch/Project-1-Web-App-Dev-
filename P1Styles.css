@@ -106,6 +106,12 @@ footer{
 footer li{
     list-style-type: none;
 }
+footer :link{
+    color: white;
+}
+footer :visited{
+    color: white;
+}
 :link{
     color: black;
 }
